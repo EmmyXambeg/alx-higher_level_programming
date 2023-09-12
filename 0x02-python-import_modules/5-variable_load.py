@@ -7,4 +7,4 @@ def finding_var():
 
 
 if __name__ == "__main__":
-finding_var()
+    finding_var()
